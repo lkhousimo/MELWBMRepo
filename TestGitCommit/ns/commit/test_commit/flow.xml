@@ -6,6 +6,6 @@
   <!-- nodes -->
 
 <INVOKE TIMEOUT="" SERVICE="pub.math:addInts" VALIDATE-IN="$none" VALIDATE-OUT="$none">
-  <COMMENT>comment 3 from visual code</COMMENT>
+  <COMMENT>comment 4 from visual code</COMMENT>
 </INVOKE>
 </FLOW>
